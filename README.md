@@ -1,0 +1,1 @@
+Uses Vue CLI scaffold, the full webpack version found here: https://github.com/vuejs-templates/webpack
